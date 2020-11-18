@@ -78,11 +78,9 @@ With Altair, you can spend more time understanding your data and its meaning. Al
 
 ![Altair example](./images/altair-viz-nb.png)
 
-
-
 # Agile sprints / Version 1 - cronograma
 
-Foi definido em nosso planejamento de versão que cada épico será solucionado em um único sprint de uma semana, separados em dois projetos, um para o Backend e outro para o front end, propondo os seguintes épicos e período de desenvolvimento.
+It was defined in our version planning that each epic will be solved in a single sprint of a week, separated into two projects, one for the Backend and one for the front end, proposing the following epics and development period.
 
 ## Codash Back-end
 
@@ -97,3 +95,5 @@ Epicos/Sprints:
 - create react app // layout -> period: Dec 14 - Dec 21
 - create charts components -> period: Dec 21 - Dec 28
 - create responsive cards -> period: Dec 28, 2020 - Jan 4, 2021
+
+![cronograma](./images/codash-cronogram.png)
