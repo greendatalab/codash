@@ -42,7 +42,9 @@ Tableau offers a highly interactive and intuitive visual-based exploration exper
 
 A JavaScript library for building user interfaces.
 
-## React
+## Front-end
+
+### React
 
 React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
 
@@ -56,13 +58,42 @@ Here's the main libraries used to build a dashboard in react.
 - recharts: library used to composable charting built on react components;
 - docker: to run the project locally;
 
-# Cronograma de desenvolvimento
+## Back-end
 
-Levar em conta 4 meses de desenvolvimento para entrega da aplicacao.
+### Flask
 
-- desenvolver backend
-- desenvolver constantes
-- desenvolver front-end
-* listar as tarefas
+Flask is very convinient to use in this solution because it has a very minimal setup and you can simply add only the libraries you should use in order to extract, transform and serve the data to front-end.
 
-epico, sprint, versao
+### JupyterLab
+
+This is the perfect tool to write your notebooks and visualize the data using python, pandas and some viz libraries like Altair-Viz.
+
+![Jupyter Lab](./images/jupyter-lab-altair-viz2.png)
+
+### Altair Viz
+
+Altair is a declarative statistical visualization library for Python, based on Vega and Vega-Lite, and the source is available on GitHub.
+
+With Altair, you can spend more time understanding your data and its meaning. Altair’s API is simple, friendly and consistent and built on top of the powerful Vega-Lite visualization grammar. This elegant simplicity produces beautiful and effective visualizations with a minimal amount of code.
+
+![Altair example](./images/altair-viz-nb.png)
+
+
+
+# Agile sprints / Version 1 - cronograma
+
+Foi definido em nosso planejamento de versão que cada épico será solucionado em um único sprint de uma semana, separados em dois projetos, um para o Backend e outro para o front end, propondo os seguintes épicos e período de desenvolvimento.
+
+## Codash Back-end
+
+Epics/Sprints:
+- create flask app // layout -> period: Nov 23 - Nov 29
+- create notebook for data exploration -> period: Nov 30 - Dec 6
+- create api routes -> period: Dec 7 - Dec 13
+
+## Codash Front-End
+
+Epicos/Sprints:
+- create react app // layout -> period: Dec 14 - Dec 21
+- create charts components -> period: Dec 21 - Dec 28
+- create responsive cards -> period: Dec 28, 2020 - Jan 4, 2021
