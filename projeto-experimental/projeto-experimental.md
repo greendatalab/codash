@@ -4,7 +4,7 @@
 
 # Referencial Teorico
 
-Principais dashboards do mercado (tableau, power bi), mostrar exemplo, escrever descricao breve. mostrar alguns prints deles funcionando e suas diferencas.
+<!-- Principais dashboards do mercado (tableau, power bi), mostrar exemplo, escrever descricao breve. mostrar alguns prints deles funcionando e suas diferencas. -->
 
 >A dashboard is a visual display of data used to monitor conditions and/or facilitate understanding.
 
