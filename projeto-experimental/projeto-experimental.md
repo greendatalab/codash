@@ -1,8 +1,8 @@
-# Introducao
+# Introduction
 
 <!-- Escrever uma breve introducao sobre dashboard, de forma geral. Citar referencias. -->
 
-# Referencial Teorico
+# Theoretical Reference
 
 <!-- Principais dashboards do mercado (tableau, power bi), mostrar exemplo, escrever descricao breve. mostrar alguns prints deles funcionando e suas diferencas. -->
 
