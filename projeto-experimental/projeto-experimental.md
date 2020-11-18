@@ -78,7 +78,7 @@ With Altair, you can spend more time understanding your data and its meaning. Al
 
 ![Altair example](./images/altair-viz-nb.png)
 
-# Agile sprints / Version 1 - cronograma
+# Agile sprints / Version 1 - schedule
 
 It was defined in our version planning that each epic will be solved in a single sprint of a week, separated into two projects, one for the Backend and one for the front end, proposing the following epics and development period.
 
