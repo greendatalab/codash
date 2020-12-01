@@ -2,11 +2,6 @@
 
 <!-- Escrever uma breve introducao sobre dashboard, de forma geral. Citar referencias. -->
 
-/** O dashboard é uma aplicação de software que se propõe a entregar uma boa experiência de usuário para a audiência proposta. Neste caso, foi aplicado tecnologias open source, como, linguagens de programação Javascript e Python, docker para criação, teste e execução dos contâiners.
-
-A aplicação proposta se propõe abertamente a ser uma alternativa viável de desenvolvimento de produtos de dados para desenvolvedores (O autor considera qualquer pessoa que tenha um conhecimento mínimo de lógica, que seja capaz de escrever fórmulas condicionais e de agregação no Excel como seja um desenvolvenvolvedor em potencial).
-**/
-
 The dashboard is a software application that aims to deliver a good user experience for the proposed audience. In this case, open source technologies were applied, such as Javascript and Python programming languages, docker for creating, testing and executing the containers.
 
 The proposed application openly proposes to be a viable alternative for developing data products and target this solution to developers (The author considers anyone who has a minimum knowledge of logic, who is able to write conditional and aggregation formulas in Excel as a developer in potential).
